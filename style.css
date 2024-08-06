@@ -1,0 +1,37 @@
+.travel_mainDiv{
+    border: 5px solid lightgreen;
+    background-color:rgb(0, 0, 0); 
+}
+.travel_mainDiv img{
+    width: 50;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 30px;
+}
+.travel_mainDiv h5, .travel_minDiv p{
+margin:30px;
+font-size:30px;
+}
+body{
+    background-image: linear-gradient(to right top,rgb(0, 0, 0), rgb(56, 56, 56),rgb(0, 0, 0) );
+}
+movie_head{
+    font-size: 30px;
+    padding: 6px 22px;
+    border: radius 10px;
+    margin-bottom: 15px
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color:rgb(0, 0, 0);
+    }
+.img{
+    width: 20%;
+}
+.book{
+    margin-bottom: 20px;
+}
+#contact iframe{
+    width:100%
+}
